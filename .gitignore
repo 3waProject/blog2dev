@@ -4,6 +4,7 @@
 /phpunit.xml
 /var/*
 !/var/cache
+.idea/workspace.xml
 /var/cache/*
 !var/cache/.gitkeep
 !/var/logs
@@ -15,3 +16,4 @@
 !var/SymfonyRequirements.php
 /vendor/
 /web/bundles/
+Would skip repository blog2dev/
